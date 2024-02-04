@@ -29,8 +29,7 @@
 Welcome to the San Francisco State CyberSecurity Club! We're open to infosec geeks and beginners alike! Feel free to come to our meetings, usually held at the following times
 in the Computer Science Lab:
 
-- Mondays: 6:30 - 8:30
-- Wednesdays: 3:30 - 5:30
-- Saturdays: 3:00 - 6:30
+- Mondays: 5:00 - 6:15 PM
+- Tuesdays: 3:30 - 4:45 PM
 
 For access, DM an organization owner, or consider opening a pull request on any of our repositories. We hope you enjoy your stay!
